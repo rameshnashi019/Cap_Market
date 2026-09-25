@@ -1,0 +1,10 @@
+Incident INC-1023
+
+Date: 2026-08-17
+Trade: TRD98421
+Client: ABC
+Issue: Settlement instruction rejected.
+Reason: Incorrect settlement account.
+Investigation: Client rule showed a newer account effective from 2026-08-15, but the operational record still contained the previous account.
+Resolution: Reference data corrected and instruction re-submitted.
+Root cause: Stale client-specific reference data.

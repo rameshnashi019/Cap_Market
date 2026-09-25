@@ -1,0 +1,5 @@
+incident_id,date,category,severity,status,root_cause
+INC-1023,2026-08-17,Settlement,HIGH,CLOSED,Stale client SSI
+INC-1041,2026-09-02,EOD,HIGH,CLOSED,Malformed custodian file
+INC-1055,2026-09-11,Matching,MEDIUM,CLOSED,Counterparty price mismatch
+INC-1062,2026-09-20,Reference Data,HIGH,OPEN,Security status mismatch

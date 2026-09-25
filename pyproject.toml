@@ -1,0 +1,43 @@
+[project]
+name = "rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { email = "rameshnashi019@gmail.com" }
+]
+requires-python = ">=3.13,<3.14"
+dependencies = [
+    "chromadb>=1.5.9",
+    "fastapi>=0.141.1",
+    "langchain>=1.4.2",
+    "langchain-chroma>=1.1.0",
+    "langchain-community>=0.4.2",
+    "langchain-core>=1.6.4",
+    "langchain-huggingface>=1.2.0",
+    "langchain-openai>=1.6.6",
+    "langchain-text-splitters>=1.1.2",
+    "numpy>=2.5.3",
+    "openai>=3.19.2",
+    "pandas>=3.0.6",
+    "pymupdf>=1.28.2",
+    "pypdf>=6.19.0",
+    "python-multipart>=0.0.20",
+    "python-dotenv>=1.2.3",
+    "jinja2>=3.1.0",
+    "itsdangerous>=2.2.0",
+    "sentence-transformers>=6.1.0",
+    "uvicorn>=0.53.0",
+]
+
+[project.scripts]
+rag = "rag:main"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0.0",
+]
+
+[build-system]
+requires = ["uv_build>=0.12.8,<0.13.0"]
+build-backend = "uv_build"

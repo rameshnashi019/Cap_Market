@@ -1,0 +1,22 @@
+[
+  {
+    "message_type": "sese.023",
+    "purpose": "Securities Settlement Transaction Instruction",
+    "trade_id": "TRD98421",
+    "settlement_date": "2026-09-24",
+    "status": "INSTRUCTED"
+  },
+  {
+    "message_type": "sese.024",
+    "purpose": "Securities Settlement Transaction Status Advice",
+    "trade_id": "TRD98421",
+    "status": "REJECTED",
+    "reason_code": "SET002"
+  },
+  {
+    "message_type": "sese.025",
+    "purpose": "Securities Settlement Transaction Confirmation",
+    "trade_id": "TRD98422",
+    "status": "SETTLED"
+  }
+]

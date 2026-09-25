@@ -1,0 +1,379 @@
+2026-09-24 19:56:55,190 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-0\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 19:56:55,191 - INFO - No new documents detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-0\test_ingestion_detects_added_d0\docs
+2026-09-24 19:56:55,270 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-0\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 19:56:55,270 - INFO - No new documents detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-0\test_ingestion_detects_removed0\docs
+2026-09-24 19:56:55,271 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-0\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 19:56:55,271 - INFO - No new documents detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-0\test_ingestion_detects_removed0\docs
+2026-09-24 19:57:29,362 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-1\test_ingestion_detects_added_d0\docs
+2026-09-24 19:57:29,362 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-1\test_ingestion_detects_added_d0\docs
+2026-09-24 19:57:29,363 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-1\test_ingestion_detects_added_d0\docs
+2026-09-24 19:57:29,363 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-1\test_ingestion_detects_added_d0\docs
+2026-09-24 19:57:29,443 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-1\test_ingestion_detects_removed0\docs
+2026-09-24 19:57:29,443 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-1\test_ingestion_detects_removed0\docs
+2026-09-24 19:57:29,444 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-1\test_ingestion_detects_removed0\docs
+2026-09-24 19:57:29,444 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-1\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 19:57:48,674 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-2\test_ingestion_detects_added_d0\docs
+2026-09-24 19:57:48,676 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-2\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 19:57:48,685 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-2\test_ingestion_detects_removed0\docs
+2026-09-24 19:57:48,686 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-2\test_ingestion_detects_removed0\docs
+2026-09-24 19:57:48,687 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-2\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 20:07:30,764 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-3\test_ingestion_detects_added_d0\docs
+2026-09-24 20:07:30,765 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-3\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 20:07:30,768 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-3\test_ingestion_detects_removed0\docs
+2026-09-24 20:07:30,769 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-3\test_ingestion_detects_removed0\docs
+2026-09-24 20:07:30,769 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-3\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 20:07:30,775 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-3\test_common_document_represent0\docs
+2026-09-24 20:09:15,459 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-4\test_ingestion_detects_added_d0\docs
+2026-09-24 20:09:15,460 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-4\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 20:09:15,463 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-4\test_ingestion_detects_removed0\docs
+2026-09-24 20:09:15,464 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-4\test_ingestion_detects_removed0\docs
+2026-09-24 20:09:15,464 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-4\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 20:09:15,467 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-4\test_common_document_represent0\docs
+2026-09-24 20:09:15,478 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-4\test_document_is_chunked_after0\docs
+2026-09-24 20:11:40,669 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-5\test_ingestion_detects_added_d0\docs
+2026-09-24 20:11:40,671 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-5\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 20:11:40,675 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-5\test_ingestion_detects_removed0\docs
+2026-09-24 20:11:40,676 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-5\test_ingestion_detects_removed0\docs
+2026-09-24 20:11:40,676 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-5\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 20:11:40,679 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-5\test_common_document_represent0\docs
+2026-09-24 20:14:45,086 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-6\test_cleaner_removes_empty_and0\docs
+2026-09-24 20:14:45,112 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-6\test_cleaner_preserves_content0\docs
+2026-09-24 20:14:45,138 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-6\test_ingestion_detects_added_d0\docs
+2026-09-24 20:14:45,138 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-6\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 20:14:45,143 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-6\test_ingestion_detects_removed0\docs
+2026-09-24 20:14:45,144 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-6\test_ingestion_detects_removed0\docs
+2026-09-24 20:14:45,145 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-6\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 20:14:45,153 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-6\test_common_document_represent0\docs
+2026-09-24 20:16:04,396 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-7\test_quality_validator_accepts0\docs
+2026-09-24 20:16:04,418 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-7\test_quality_validator_rejects0\docs
+2026-09-24 20:16:04,435 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-7\test_cleaner_removes_empty_and0\docs
+2026-09-24 20:16:04,439 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-7\test_cleaner_preserves_content0\docs
+2026-09-24 20:16:04,447 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-7\test_ingestion_detects_added_d0\docs
+2026-09-24 20:16:04,448 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-7\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 20:16:04,452 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-7\test_ingestion_detects_removed0\docs
+2026-09-24 20:16:04,453 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-7\test_ingestion_detects_removed0\docs
+2026-09-24 20:16:04,453 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-7\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 20:16:04,459 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-7\test_common_document_represent0\docs
+2026-09-24 20:17:07,597 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-8\test_ingestion_detects_added_d0\docs
+2026-09-24 20:17:07,600 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-8\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 20:17:07,607 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-8\test_ingestion_detects_removed0\docs
+2026-09-24 20:17:07,608 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-8\test_ingestion_detects_removed0\docs
+2026-09-24 20:17:07,608 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-8\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 20:17:07,612 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-8\test_common_document_represent0\docs
+2026-09-24 20:17:07,623 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-8\test_cleaner_removes_empty_and0\docs
+2026-09-24 20:17:07,629 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-8\test_cleaner_preserves_content0\docs
+2026-09-24 20:17:07,637 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-8\test_quality_validator_accepts0\docs
+2026-09-24 20:17:07,643 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-8\test_quality_validator_rejects0\docs
+2026-09-24 20:17:20,118 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-9\test_ingestion_enriches_docume0\docs
+2026-09-24 20:17:20,144 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-9\test_metadata_title_falls_back0\docs
+2026-09-24 20:17:20,149 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-9\test_ingestion_detects_added_d0\docs
+2026-09-24 20:17:20,151 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-9\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 20:17:20,162 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-9\test_ingestion_detects_removed0\docs
+2026-09-24 20:17:20,163 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-9\test_ingestion_detects_removed0\docs
+2026-09-24 20:17:20,164 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-9\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 20:17:20,169 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-9\test_common_document_represent0\docs
+2026-09-24 20:17:20,177 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-9\test_cleaner_removes_empty_and0\docs
+2026-09-24 20:17:20,183 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-9\test_cleaner_preserves_content0\docs
+2026-09-24 20:17:20,190 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-9\test_quality_validator_accepts0\docs
+2026-09-24 20:17:20,196 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-9\test_quality_validator_rejects0\docs
+2026-09-24 20:21:29,358 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-10\test_chunker_supports_multiple0\docs
+2026-09-24 20:21:29,377 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-10\test_recursive_chunking_preser0\docs
+2026-09-24 20:21:29,474 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-10\test_chunk_evaluator_rejects_d0\docs
+2026-09-24 20:21:51,226 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-11\test_chunker_supports_multiple0\docs
+2026-09-24 20:21:51,235 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-11\test_recursive_chunking_preser0\docs
+2026-09-24 20:21:51,351 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-11\test_chunk_evaluator_rejects_d0\docs
+2026-09-24 20:22:16,946 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-12\test_chunker_supports_multiple0\docs
+2026-09-24 20:22:16,952 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-12\test_recursive_chunking_preser0\docs
+2026-09-24 20:22:17,048 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-12\test_chunk_evaluator_rejects_d0\docs
+2026-09-24 20:22:41,241 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-13\test_chunker_supports_multiple0\docs
+2026-09-24 20:22:41,246 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-13\test_recursive_chunking_preser0\docs
+2026-09-24 20:22:41,250 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-13\test_chunk_evaluator_rejects_d0\docs
+2026-09-24 20:22:47,235 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-14\test_chunker_supports_multiple0\docs
+2026-09-24 20:22:47,239 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-14\test_recursive_chunking_preser0\docs
+2026-09-24 20:22:47,243 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-14\test_chunk_evaluator_rejects_d0\docs
+2026-09-24 20:22:47,250 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-14\test_cleaner_removes_empty_and0\docs
+2026-09-24 20:22:47,257 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-14\test_cleaner_preserves_content0\docs
+2026-09-24 20:22:47,262 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-14\test_ingestion_detects_added_d0\docs
+2026-09-24 20:22:47,262 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-14\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 20:22:47,269 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-14\test_ingestion_detects_removed0\docs
+2026-09-24 20:22:47,270 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-14\test_ingestion_detects_removed0\docs
+2026-09-24 20:22:47,271 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-14\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 20:22:47,276 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-14\test_common_document_represent0\docs
+2026-09-24 20:22:47,287 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-14\test_ingestion_enriches_docume0\docs
+2026-09-24 20:22:47,292 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-14\test_metadata_title_falls_back0\docs
+2026-09-24 20:22:47,296 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-14\test_quality_validator_accepts0\docs
+2026-09-24 20:22:47,303 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-14\test_quality_validator_rejects0\docs
+2026-09-24 20:27:09,339 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-15\test_chunker_supports_multiple0\docs
+2026-09-24 20:27:09,347 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-15\test_recursive_chunking_preser0\docs
+2026-09-24 20:27:09,356 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-15\test_chunk_evaluator_rejects_d0\docs
+2026-09-24 20:57:19,394 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-16\test_chunker_supports_multiple0\docs
+2026-09-24 20:57:19,395 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-17\test_chunker_supports_multiple0\docs
+2026-09-24 20:57:19,427 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-16\test_recursive_chunking_preser0\docs
+2026-09-24 20:57:19,427 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-17\test_recursive_chunking_preser0\docs
+2026-09-24 20:57:19,438 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-16\test_chunk_evaluator_rejects_d0\docs
+2026-09-24 20:57:19,440 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-17\test_chunk_evaluator_rejects_d0\docs
+2026-09-24 20:57:19,451 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-16\test_cleaner_removes_empty_and0\docs
+2026-09-24 20:57:19,455 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-17\test_cleaner_removes_empty_and0\docs
+2026-09-24 20:57:19,460 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-16\test_cleaner_preserves_content0\docs
+2026-09-24 20:57:19,471 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-17\test_cleaner_preserves_content0\docs
+2026-09-24 20:57:19,474 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-16\test_ingestion_detects_added_d0\docs
+2026-09-24 20:57:19,475 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-16\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 20:57:19,479 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-17\test_ingestion_detects_added_d0\docs
+2026-09-24 20:57:19,482 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-17\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 20:57:19,485 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-16\test_ingestion_detects_removed0\docs
+2026-09-24 20:57:19,487 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-16\test_ingestion_detects_removed0\docs
+2026-09-24 20:57:19,488 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-16\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 20:57:19,488 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-17\test_ingestion_detects_removed0\docs
+2026-09-24 20:57:19,489 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-17\test_ingestion_detects_removed0\docs
+2026-09-24 20:57:19,491 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-17\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 20:57:19,504 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-16\test_common_document_represent0\docs
+2026-09-24 20:57:19,504 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-17\test_common_document_represent0\docs
+2026-09-24 20:57:19,513 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-16\test_ingestion_enriches_docume0\docs
+2026-09-24 20:57:19,517 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-17\test_ingestion_enriches_docume0\docs
+2026-09-24 20:57:19,523 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-16\test_metadata_title_falls_back0\docs
+2026-09-24 20:57:19,532 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-16\test_quality_validator_accepts0\docs
+2026-09-24 20:57:19,533 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-17\test_metadata_title_falls_back0\docs
+2026-09-24 20:57:19,539 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-17\test_quality_validator_accepts0\docs
+2026-09-24 20:57:19,541 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-16\test_quality_validator_rejects0\docs
+2026-09-24 20:57:19,550 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-17\test_quality_validator_rejects0\docs
+2026-09-24 21:15:37,809 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-18\test_chunker_supports_multiple0\docs
+2026-09-24 21:15:37,846 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-18\test_recursive_chunking_preser0\docs
+2026-09-24 21:15:37,860 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-18\test_chunk_evaluator_rejects_d0\docs
+2026-09-24 21:15:37,875 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-18\test_cleaner_removes_empty_and0\docs
+2026-09-24 21:15:37,883 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-18\test_cleaner_preserves_content0\docs
+2026-09-24 21:15:37,913 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-18\test_ingestion_detects_added_d0\docs
+2026-09-24 21:15:37,914 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-18\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 21:15:37,965 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-18\test_ingestion_detects_removed0\docs
+2026-09-24 21:15:37,966 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-18\test_ingestion_detects_removed0\docs
+2026-09-24 21:15:37,966 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-18\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 21:15:37,976 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-18\test_common_document_represent0\docs
+2026-09-24 21:15:37,988 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-18\test_ingestion_enriches_docume0\docs
+2026-09-24 21:15:37,995 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-18\test_metadata_title_falls_back0\docs
+2026-09-24 21:15:38,000 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-18\test_quality_validator_accepts0\docs
+2026-09-24 21:15:38,030 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-18\test_quality_validator_rejects0\docs
+2026-09-24 21:18:46,057 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-19\test_chunker_supports_multiple0\docs
+2026-09-24 21:18:46,069 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-19\test_recursive_chunking_preser0\docs
+2026-09-24 21:18:46,076 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-19\test_chunk_evaluator_rejects_d0\docs
+2026-09-24 21:18:46,085 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-19\test_cleaner_removes_empty_and0\docs
+2026-09-24 21:18:46,096 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-19\test_cleaner_preserves_content0\docs
+2026-09-24 21:18:46,104 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-19\test_ingestion_detects_added_d0\docs
+2026-09-24 21:18:46,105 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-19\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 21:18:46,112 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-19\test_ingestion_detects_removed0\docs
+2026-09-24 21:18:46,113 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-19\test_ingestion_detects_removed0\docs
+2026-09-24 21:18:46,113 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-19\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 21:18:46,118 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-19\test_common_document_represent0\docs
+2026-09-24 21:18:46,133 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-19\test_ingestion_enriches_docume0\docs
+2026-09-24 21:18:46,139 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-19\test_metadata_title_falls_back0\docs
+2026-09-24 21:18:46,146 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-19\test_quality_validator_accepts0\docs
+2026-09-24 21:18:46,152 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-19\test_quality_validator_rejects0\docs
+2026-09-24 21:23:22,741 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-22\test_chunker_supports_multiple0\docs
+2026-09-24 21:23:22,750 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-22\test_recursive_chunking_preser0\docs
+2026-09-24 21:23:22,761 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-22\test_chunk_evaluator_rejects_d0\docs
+2026-09-24 21:23:22,772 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-22\test_cleaner_removes_empty_and0\docs
+2026-09-24 21:23:22,781 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-22\test_cleaner_preserves_content0\docs
+2026-09-24 21:23:22,789 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-22\test_ingestion_detects_added_d0\docs
+2026-09-24 21:23:22,790 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-22\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 21:23:22,796 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-22\test_ingestion_detects_removed0\docs
+2026-09-24 21:23:22,798 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-22\test_ingestion_detects_removed0\docs
+2026-09-24 21:23:22,798 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-22\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 21:23:22,806 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-22\test_common_document_represent0\docs
+2026-09-24 21:23:22,823 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-22\test_ingestion_enriches_docume0\docs
+2026-09-24 21:23:22,830 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-22\test_metadata_title_falls_back0\docs
+2026-09-24 21:23:22,838 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-22\test_quality_validator_accepts0\docs
+2026-09-24 21:23:22,845 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-22\test_quality_validator_rejects0\docs
+2026-09-24 21:27:39,005 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-24\test_chunker_supports_multiple0\docs
+2026-09-24 21:27:39,022 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-24\test_recursive_chunking_preser0\docs
+2026-09-24 21:27:39,038 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-24\test_chunk_evaluator_rejects_d0\docs
+2026-09-24 21:27:39,053 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-24\test_cleaner_removes_empty_and0\docs
+2026-09-24 21:27:39,060 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-24\test_cleaner_preserves_content0\docs
+2026-09-24 21:27:39,069 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-24\test_ingestion_detects_added_d0\docs
+2026-09-24 21:27:39,070 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-24\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 21:27:39,075 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-24\test_ingestion_detects_removed0\docs
+2026-09-24 21:27:39,076 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-24\test_ingestion_detects_removed0\docs
+2026-09-24 21:27:39,076 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-24\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 21:27:39,084 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-24\test_common_document_represent0\docs
+2026-09-24 21:27:39,100 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-24\test_ingestion_enriches_docume0\docs
+2026-09-24 21:27:39,107 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-24\test_metadata_title_falls_back0\docs
+2026-09-24 21:27:39,113 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-24\test_quality_validator_accepts0\docs
+2026-09-24 21:27:39,120 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-24\test_quality_validator_rejects0\docs
+2026-09-24 21:29:20,592 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-26\test_chunker_supports_multiple0\docs
+2026-09-24 21:29:20,606 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-26\test_recursive_chunking_preser0\docs
+2026-09-24 21:29:20,614 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-26\test_chunk_evaluator_rejects_d0\docs
+2026-09-24 21:29:20,622 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-26\test_cleaner_removes_empty_and0\docs
+2026-09-24 21:29:20,629 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-26\test_cleaner_preserves_content0\docs
+2026-09-24 21:29:20,637 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-26\test_ingestion_detects_added_d0\docs
+2026-09-24 21:29:20,638 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-26\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 21:29:20,642 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-26\test_ingestion_detects_removed0\docs
+2026-09-24 21:29:20,643 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-26\test_ingestion_detects_removed0\docs
+2026-09-24 21:29:20,643 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-26\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 21:29:20,648 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-26\test_common_document_represent0\docs
+2026-09-24 21:29:20,662 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-26\test_ingestion_enriches_docume0\docs
+2026-09-24 21:29:20,670 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-26\test_metadata_title_falls_back0\docs
+2026-09-24 21:29:20,676 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-26\test_quality_validator_accepts0\docs
+2026-09-24 21:29:20,681 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-26\test_quality_validator_rejects0\docs
+2026-09-24 21:33:45,400 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-27\test_chunker_supports_multiple0\docs
+2026-09-24 21:33:45,410 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-27\test_recursive_chunking_preser0\docs
+2026-09-24 21:33:45,416 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-27\test_chunk_evaluator_rejects_d0\docs
+2026-09-24 21:33:45,424 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-27\test_cleaner_removes_empty_and0\docs
+2026-09-24 21:33:45,432 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-27\test_cleaner_preserves_content0\docs
+2026-09-24 21:33:45,440 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-27\test_ingestion_detects_added_d0\docs
+2026-09-24 21:33:45,441 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-27\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 21:33:45,447 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-27\test_ingestion_detects_removed0\docs
+2026-09-24 21:33:45,448 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-27\test_ingestion_detects_removed0\docs
+2026-09-24 21:33:45,448 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-27\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 21:33:45,454 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-27\test_common_document_represent0\docs
+2026-09-24 21:33:45,487 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-27\test_ingestion_enriches_docume0\docs
+2026-09-24 21:33:45,498 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-27\test_metadata_title_falls_back0\docs
+2026-09-24 21:33:45,510 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-27\test_quality_validator_accepts0\docs
+2026-09-24 21:33:45,523 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-27\test_quality_validator_rejects0\docs
+2026-09-24 21:36:24,754 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:36:24,927 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:36:58,394 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:36:58,491 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:36:58,591 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-28\test_pipeline_indexes_changes_0\docs
+2026-09-24 21:36:58,593 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-28\test_pipeline_indexes_changes_0\docs
+2026-09-24 21:37:28,870 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:37:28,968 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:37:29,067 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-29\test_pipeline_indexes_changes_0\docs
+2026-09-24 21:37:29,069 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-29\test_pipeline_indexes_changes_0\docs
+2026-09-24 21:37:55,872 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-30\test_chunker_supports_multiple0\docs
+2026-09-24 21:37:55,885 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-30\test_recursive_chunking_preser0\docs
+2026-09-24 21:37:55,897 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-30\test_chunk_evaluator_rejects_d0\docs
+2026-09-24 21:37:55,907 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-30\test_cleaner_removes_empty_and0\docs
+2026-09-24 21:37:55,915 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-30\test_cleaner_preserves_content0\docs
+2026-09-24 21:37:55,922 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-30\test_ingestion_detects_added_d0\docs
+2026-09-24 21:37:55,924 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-30\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 21:37:55,929 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-30\test_ingestion_detects_removed0\docs
+2026-09-24 21:37:55,930 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-30\test_ingestion_detects_removed0\docs
+2026-09-24 21:37:55,930 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-30\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 21:37:55,935 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-30\test_common_document_represent0\docs
+2026-09-24 21:37:55,964 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-30\test_ingestion_enriches_docume0\docs
+2026-09-24 21:37:55,972 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-30\test_metadata_title_falls_back0\docs
+2026-09-24 21:37:55,977 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-30\test_quality_validator_accepts0\docs
+2026-09-24 21:37:55,983 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-30\test_quality_validator_rejects0\docs
+2026-09-24 21:37:55,989 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:37:56,049 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:37:56,157 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-30\test_pipeline_indexes_changes_0\docs
+2026-09-24 21:37:56,159 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-30\test_pipeline_indexes_changes_0\docs
+2026-09-24 21:40:45,102 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-31\test_chunker_supports_multiple0\docs
+2026-09-24 21:40:45,111 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-31\test_recursive_chunking_preser0\docs
+2026-09-24 21:40:45,120 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-31\test_chunk_evaluator_rejects_d0\docs
+2026-09-24 21:40:45,129 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-31\test_cleaner_removes_empty_and0\docs
+2026-09-24 21:40:45,138 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-31\test_cleaner_preserves_content0\docs
+2026-09-24 21:40:45,144 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-31\test_ingestion_detects_added_d0\docs
+2026-09-24 21:40:45,146 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-31\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 21:40:45,153 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-31\test_ingestion_detects_removed0\docs
+2026-09-24 21:40:45,153 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-31\test_ingestion_detects_removed0\docs
+2026-09-24 21:40:45,154 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-31\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 21:40:45,159 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-31\test_common_document_represent0\docs
+2026-09-24 21:40:45,188 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-31\test_ingestion_enriches_docume0\docs
+2026-09-24 21:40:45,198 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-31\test_metadata_title_falls_back0\docs
+2026-09-24 21:40:45,204 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-31\test_quality_validator_accepts0\docs
+2026-09-24 21:40:45,214 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-31\test_quality_validator_rejects0\docs
+2026-09-24 21:40:45,218 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:40:45,262 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:40:45,358 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-31\test_pipeline_indexes_changes_0\docs
+2026-09-24 21:40:45,360 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-31\test_pipeline_indexes_changes_0\docs
+2026-09-24 21:45:40,714 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:46:06,780 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:46:35,287 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:46:48,780 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:46:49,113 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-32\test_chunker_supports_multiple0\docs
+2026-09-24 21:46:49,124 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-32\test_recursive_chunking_preser0\docs
+2026-09-24 21:46:49,133 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-32\test_chunk_evaluator_rejects_d0\docs
+2026-09-24 21:46:49,142 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-32\test_cleaner_removes_empty_and0\docs
+2026-09-24 21:46:49,150 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-32\test_cleaner_preserves_content0\docs
+2026-09-24 21:46:49,158 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-32\test_ingestion_detects_added_d0\docs
+2026-09-24 21:46:49,160 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-32\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 21:46:49,168 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-32\test_ingestion_detects_removed0\docs
+2026-09-24 21:46:49,169 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-32\test_ingestion_detects_removed0\docs
+2026-09-24 21:46:49,170 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-32\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 21:46:49,179 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-32\test_common_document_represent0\docs
+2026-09-24 21:46:49,343 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-32\test_ingestion_enriches_docume0\docs
+2026-09-24 21:46:49,361 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-32\test_metadata_title_falls_back0\docs
+2026-09-24 21:46:49,373 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-32\test_quality_validator_accepts0\docs
+2026-09-24 21:46:49,396 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-32\test_quality_validator_rejects0\docs
+2026-09-24 21:46:49,400 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:46:49,411 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:46:49,493 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-32\test_pipeline_indexes_changes_0\docs
+2026-09-24 21:46:49,495 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-32\test_pipeline_indexes_changes_0\docs
+2026-09-24 21:47:32,004 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:51:17,277 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:51:17,585 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-33\test_chunker_supports_multiple0\docs
+2026-09-24 21:51:17,597 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-33\test_recursive_chunking_preser0\docs
+2026-09-24 21:51:17,606 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-33\test_chunk_evaluator_rejects_d0\docs
+2026-09-24 21:51:17,617 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-33\test_cleaner_removes_empty_and0\docs
+2026-09-24 21:51:17,628 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-33\test_cleaner_preserves_content0\docs
+2026-09-24 21:51:17,635 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-33\test_ingestion_detects_added_d0\docs
+2026-09-24 21:51:17,637 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-33\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 21:51:17,645 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-33\test_ingestion_detects_removed0\docs
+2026-09-24 21:51:17,648 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-33\test_ingestion_detects_removed0\docs
+2026-09-24 21:51:17,649 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-33\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 21:51:17,654 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-33\test_common_document_represent0\docs
+2026-09-24 21:51:17,752 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-33\test_ingestion_enriches_docume0\docs
+2026-09-24 21:51:17,762 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-33\test_metadata_title_falls_back0\docs
+2026-09-24 21:51:17,767 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-33\test_quality_validator_accepts0\docs
+2026-09-24 21:51:17,775 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-33\test_quality_validator_rejects0\docs
+2026-09-24 21:51:17,781 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:51:17,787 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:51:17,861 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-33\test_pipeline_indexes_changes_0\docs
+2026-09-24 21:51:17,862 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-33\test_pipeline_indexes_changes_0\docs
+2026-09-24 21:53:42,320 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:53:42,611 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-35\test_chunker_supports_multiple0\docs
+2026-09-24 21:53:42,626 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-35\test_recursive_chunking_preser0\docs
+2026-09-24 21:53:42,638 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-35\test_chunk_evaluator_rejects_d0\docs
+2026-09-24 21:53:42,647 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-35\test_cleaner_removes_empty_and0\docs
+2026-09-24 21:53:42,658 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-35\test_cleaner_preserves_content0\docs
+2026-09-24 21:53:42,664 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-35\test_ingestion_detects_added_d0\docs
+2026-09-24 21:53:42,664 - INFO - Document added: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-35\test_ingestion_detects_added_d0\docs\sample.txt
+2026-09-24 21:53:42,672 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-35\test_ingestion_detects_removed0\docs
+2026-09-24 21:53:42,673 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-35\test_ingestion_detects_removed0\docs
+2026-09-24 21:53:42,674 - WARNING - Document removed: C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-35\test_ingestion_detects_removed0\docs\old.txt
+2026-09-24 21:53:42,679 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-35\test_common_document_represent0\docs
+2026-09-24 21:53:42,795 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-35\test_ingestion_enriches_docume0\docs
+2026-09-24 21:53:42,806 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-35\test_metadata_title_falls_back0\docs
+2026-09-24 21:53:42,812 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-35\test_quality_validator_accepts0\docs
+2026-09-24 21:53:42,841 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-35\test_quality_validator_rejects0\docs
+2026-09-24 21:53:42,846 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:53:42,854 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-24 21:53:42,961 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-35\test_pipeline_indexes_changes_0\docs
+2026-09-24 21:53:42,961 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-35\test_pipeline_indexes_changes_0\docs
+2026-09-25 08:37:08,826 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-25 08:38:34,734 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-25 09:04:07,797 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-25 18:57:18,789 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-25 18:57:18,938 - INFO - No document changes detected in D:\Rag\data\docs
+2026-09-25 18:59:35,019 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-25 18:59:35,098 - INFO - No document changes detected in D:\Rag\data\docs
+2026-09-25 18:59:35,377 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-36\test_create_app_indexes_docume0\docs
+2026-09-25 18:59:35,380 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-36\test_create_app_indexes_docume0\docs
+2026-09-25 19:01:37,654 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-25 19:01:37,731 - INFO - No document changes detected in D:\Rag\data\docs
+2026-09-25 19:01:37,951 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-37\test_create_app_indexes_docume0\docs
+2026-09-25 19:01:37,953 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-37\test_create_app_indexes_docume0\docs
+2026-09-25 19:02:12,771 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-25 19:02:12,841 - INFO - No document changes detected in D:\Rag\data\docs
+2026-09-25 19:02:13,055 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-38\test_create_app_indexes_docume0\docs
+2026-09-25 19:02:13,057 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-38\test_create_app_indexes_docume0\docs
+2026-09-25 19:02:38,829 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-25 19:02:38,904 - INFO - No document changes detected in D:\Rag\data\docs
+2026-09-25 19:02:39,116 - INFO - Initialized document tracking for C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-39\test_create_app_indexes_docume0\docs
+2026-09-25 19:02:39,121 - INFO - No document changes detected in C:\Users\Ramesh Nashi\AppData\Local\Temp\pytest-of-Ramesh Nashi\pytest-39\test_create_app_indexes_docume0\docs
+2026-09-25 19:03:16,618 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-25 19:03:16,687 - INFO - No document changes detected in D:\Rag\data\docs
+2026-09-25 19:05:15,924 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-25 19:05:15,992 - INFO - No document changes detected in D:\Rag\data\docs
+2026-09-25 19:06:52,170 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-25 19:06:52,242 - INFO - No document changes detected in D:\Rag\data\docs
+2026-09-25 19:13:07,895 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-25 19:13:07,970 - INFO - No document changes detected in D:\Rag\data\docs
+2026-09-25 19:14:08,270 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-25 19:14:08,351 - INFO - No document changes detected in D:\Rag\data\docs
+2026-09-25 19:30:08,973 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-25 19:30:09,497 - INFO - No document changes detected in D:\Rag\data\docs
+2026-09-25 19:31:22,279 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-25 19:31:22,731 - INFO - No document changes detected in D:\Rag\data\docs
+2026-09-25 19:32:54,156 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-25 19:32:54,624 - INFO - No document changes detected in D:\Rag\data\docs
+2026-09-25 19:40:59,151 - INFO - Initialized document tracking for D:\Rag\data\docs
+2026-09-25 19:40:59,238 - INFO - No document changes detected in D:\Rag\data\docs

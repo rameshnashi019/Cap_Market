@@ -1,0 +1,8 @@
+Settlement Exception Notes
+
+SET001: Missing SSI. Check client and security-level settlement instructions.
+SET002: Invalid account. Verify account number, market and currency.
+SET003: Insufficient securities. Check inventory and expected receipts.
+SET004: Counterparty mismatch. Compare confirmation and settlement records.
+
+Important: an old generic cutoff must not be used when a newer effective-dated client rule exists.

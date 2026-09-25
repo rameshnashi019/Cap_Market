@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Northstar RAG | Sign in</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body class="auth-shell">
+    <main class="auth-layout">
+        <section class="auth-story" aria-label="Product introduction">
+            <div class="brand-mark">N<span>/</span>R</div>
+            <p class="eyebrow">Private knowledge workspace</p>
+            <h1>Ask your documents better questions.</h1>
+            <p class="story-copy">A focused retrieval workspace for finding the signal inside your own source material.
+            </p>
+            <div class="signal-grid" aria-hidden="true">
+                <span>INDEX</span><span>RETRIEVE</span><span>GROUND</span>
+            </div>
+        </section>
+        <section class="auth-panel">
+            <div class="panel-heading">
+                <p class="eyebrow">Welcome back</p>
+                <h2>Sign in to continue</h2>
+                <p>Enter your workspace credentials to open the assistant.</p>
+            </div>
+            {% if error %}<p class="form-error" role="alert">{{ error }}</p>{% endif %}
+            <form action="/login" method="post" class="auth-form">
+                <label for="username">Username</label>
+                <input id="username" name="username" type="text" autocomplete="username" required autofocus>
+                <label for="password">Password</label>
+                <input id="password" name="password" type="password" autocomplete="current-password" required>
+                <button type="submit">Open workspace <span aria-hidden="true">&#8594;</span></button>
+            </form>
+            <p class="security-note"><span class="status-dot"></span> Private session · grounded answers only</p>
+        </section>
+    </main>
+</body>
+
+</html>

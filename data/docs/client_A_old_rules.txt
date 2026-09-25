@@ -1,0 +1,5 @@
+Client ABC - Generic Rule (Superseded)
+
+Effective date: 2026-01-01
+Settlement cutoff for US DVP: 18:00 local time.
+NOTE: This rule was superseded by the Client ABC Version 3 document effective 2026-08-01.

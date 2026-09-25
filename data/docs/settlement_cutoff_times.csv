@@ -1,0 +1,5 @@
+client,market,settlement_type,cutoff_local,effective_from,status
+ABC,US,DVP,17:30,2026-08-01,ACTIVE
+XYZ,UK,FOP,17:00,2026-01-01,ACTIVE
+PQR,IN,DVP,16:30,2026-01-01,ACTIVE
+ABC,US,DVP,18:00,2026-01-01,SUPERSEDED

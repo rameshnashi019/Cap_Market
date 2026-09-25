@@ -1,0 +1,11 @@
+Operations Notes - Trade Processing
+
+Common issues seen after trade capture:
+
+1. Duplicate trade received from an upstream feed.
+2. Incorrect settlement date caused by calendar configuration.
+3. Missing counterparty settlement instruction.
+4. Security identifier does not match the security master.
+5. Quantity or price differs from the execution source.
+
+For duplicate trades, compare source reference, counterparty, instrument, quantity and execution timestamp before cancelling or suppressing a record.

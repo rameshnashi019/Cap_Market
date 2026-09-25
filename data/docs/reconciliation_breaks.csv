@@ -1,0 +1,5 @@
+break_id,trade_id,type,amount,status,root_cause
+BRK1001,TRD98421,SSI,0,OPEN,Unknown
+BRK1002,TRD98422,Quantity,250000,INVESTIGATING,Expected receipt missing
+BRK1003,TRD98423,Cash,12500,CLOSED,Incorrect FX rate
+BRK1004,TRD98424,Status,0,OPEN,Custodian status delayed
